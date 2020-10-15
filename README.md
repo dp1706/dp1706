@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Computer Science..
 - 🤔 I’m looking for help with My work...
 - 💬 Ask me about Anything..
-- ⚡ Fun fact: I love to :painter: draw and play Cricket.
+- ⚡ Fun fact: I love to draw and play Cricket.
 
 ![](images/pexels-tim-mossholder-3643925.jpg)
 
