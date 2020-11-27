@@ -8,7 +8,7 @@
 - 💬 Ask me about Anything..
 - ⚡ Fun fact: I love to draw and play Cricket.
 
-![](images/pexels-tim-mossholder-3643925.jpg)
+![](images/welcome.png)
 
 
 ## Connect with me:
