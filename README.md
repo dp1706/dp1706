@@ -10,14 +10,23 @@
 
 ![](images/welcome.png)
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+</p>
+  
+<div align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp1706&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Ankit's Github Stats"/>
+ </div>
+ <br />
+ <div align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp1706&include_all_commits=true" />
+</div>
 
 ## Connect with me:
 
-[<img align="left" alt="dp1706 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Dwarkap50391078)
-[<img align="left" alt="dp1706 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dp1706)
-[<img align="left" alt="dp1706 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bdwarkaprasad)
-[<img align="left" alt="dp1706 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:dprasadbairwa1997@gmail.com)
-
+[<img align="left" alt="dp1706 | Twitter" width="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Im_Dwarka)
+[<img align="left" alt="dp1706 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dp1706)
+[<img align="left" alt="dp1706 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_dwarka1706/)
+[<img align="left" alt="dp1706 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:dprasadbairwa1997@gmail.com)
 <br />
-
-
