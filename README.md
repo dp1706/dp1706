@@ -22,6 +22,7 @@
  <div align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dp1706&include_all_commits=true" />
 </div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dp1706" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dp1706?trk=profile-badge">DWARKA PRASAD BAIRWA</a></div>
 
 ## Connect with me:
